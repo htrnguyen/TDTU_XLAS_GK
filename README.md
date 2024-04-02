@@ -18,6 +18,3 @@
 ## Usage
 ```python
 python essay.py
-
-## Author
-* Name: Trong Nguyen
