@@ -16,8 +16,6 @@
 ![alt text](output_2.png)
 
 ## Usage
+
 ```python
 python essay.py
-
-## Author
-* Name: Trong Nguyen
